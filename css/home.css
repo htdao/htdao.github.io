@@ -14,7 +14,7 @@ li a:hover:not(.active) {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url('../images/1.jpg');
+  background-color: white;
   min-height: 60%;
 }
 
